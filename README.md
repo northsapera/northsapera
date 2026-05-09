@@ -24,7 +24,9 @@ Currently I'm working on projects:
 - Languages: Russian — Native, English
 
 Main stats:
+
 ![Matvey's GitHub stats](https://github-readme-stats.vercel.app/api?username=northsapera&show_icons=true&theme=radical)
 
 Programming language:
+
 ![Matvey's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=northsapera&layout=compact&theme=radical)
