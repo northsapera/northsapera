@@ -14,14 +14,14 @@ In present I'm strive to the Middle+/Senior lever.
 
 ## My current projects
 Currently I'm working on projects:
-- **Smart Event Bus** focused on complex interaction with events.
+- [**Smart Event Bus** focused on complex interaction with events](https://github.com/northsapera/smarteventbus).
 - **Pyrological simulator** of forest fire spreading with implementation in GIS.
 - **Taxation descriptions parser** for RTF descriptions of the Russian standard.
 
 ## Contacts
 - ORCID: 0009-0007-3364-6077
 - email: dagrmaeiui@gmail.com
-- Languages: Russian — Native, English
+- Languages: Russian - Native, English
 
 Main stats:
 
