@@ -2,7 +2,7 @@
 <br>
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Introduction</h2>
 
-Hello! I'm Matvey. I'm bachelor student in *St. Petersburg State Forest Technical University* and working as a laboratory research assistant in the *Scientific Research Department of Genetics and Biotechnology* of *St. Petersburg Scientific Research Institute of Forestry*.
+Hello! I'm Matvey. I'm a Master's student at *ITMO University*, having completed my Bachelor's degree at *St. Petersburg State Forest Technical University* and working as a laboratory research assistant at the *Scientific Research Department of Genetics and Biotechnology* of *St. Petersburg Scientific Research Institute of Forestry*.
 
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;Coding interests</h3>
 
@@ -23,9 +23,8 @@ In present I'm aiming to the Middle+/Senior lever.
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My current projects</h2>
 
 Currently I'm working on projects:
-- [**Smart Event Bus** focused on complex interaction with events](https://github.com/northsapera/smarteventbus).
-- **Pyrological simulator** of forest fire spreading with implementation in GIS.
-- **Taxation descriptions parser** for RTF descriptions of the Russian standard.
+- [**Smart Event Bus**](https://github.com/northsapera/smarteventbus) focused on complex interaction with events.
+- [**Omnibus Quantile Permutation Test**](https://github.com/northsapera/oqpt): a non-parametric framework for multi-group distribution analysis.
 
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contacts</h2>
 
@@ -42,6 +41,7 @@ Currently I'm working on projects:
   </a>
 </p>
 
+<!--
 <h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;Core Academic & Software Stack</h3>
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=northsapera&theme=react" alt="Top Languages" />
@@ -53,3 +53,4 @@ Currently I'm working on projects:
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=northsapera&theme=react" alt="Activity Graph" />
   </a>
 </p>
+-->
